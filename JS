@@ -36,3 +36,4 @@ var today = new Date();
 console.log("Current Time : "+hour + prepand + " : " + minute + " : " + second);
 out put:Today is : Wednesday .
 Current Time : 3 PM  : 30 : 26
+
